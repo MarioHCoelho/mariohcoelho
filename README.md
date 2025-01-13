@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">What i'm learning </h2>
+<h2 align="left">Front-End Knowledge and Learning </h2>
 
 ###
 
@@ -32,7 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  
 </div>
 
 ###
