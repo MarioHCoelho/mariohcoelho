@@ -1,4 +1,4 @@
-![Imagem do WhatsApp de 2025-01-13 à(s) 17 31 43_63bce529](https://github.com/user-attachments/assets/b4e6787e-52a4-438e-8352-4185545ed68a)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=catppuccin_mocha&show_icons=true)
+
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
