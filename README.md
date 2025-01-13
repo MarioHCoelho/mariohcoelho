@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=catppuccin_mocha&show_icons=true)
+![Imagem do WhatsApp de 2025-01-13 à(s) 17 31 43_63bce529](https://github.com/user-attachments/assets/b4e6787e-52a4-438e-8352-4185545ed68a)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=catppuccin_mocha&show_icons=true)
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">My name is Mário and I'm  from Brazil.</p>
+<p align="left"><h2>My name is Mário.</h2></p>
+<p align="left">I'm  from Brazil and studying with the goal to be a front-end developer</p>
 
 ###
 
@@ -14,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript, HTML and CSS<br>🎯 Goals: Front-End Dev <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript, HTML, CSS and React!<br>🎯 Goals: Front-End Dev <br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -29,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   
 </div>
