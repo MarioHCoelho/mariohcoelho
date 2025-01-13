@@ -1,5 +1,5 @@
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariohcoelho)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
