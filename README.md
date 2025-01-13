@@ -7,7 +7,7 @@
 ###
 
 <p align="left"><h2>My name is Mário.</h2></p>
-<p align="left">I'm  from Brazil and studying with the goal to be a front-end developer</p>
+<p align="left">I'm  from Brazil and studying with the goal to be a front-end developer!</p>
 
 ###
 
@@ -39,5 +39,6 @@
  
 <h2 align="left">Non-code knowledge </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
 
 ###
