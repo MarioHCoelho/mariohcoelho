@@ -7,7 +7,7 @@
 ###
 
 <p align="left"><h2>My name is Mário.</h2></p>
-<p align="left">I'm  from Brazil and i'm in love and studying web development and ui/ux design!</p>
+<p align="left">I'm  from Brazil and love technology, software and web development!
 
 ###
 
