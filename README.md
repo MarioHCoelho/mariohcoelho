@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=bear&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
