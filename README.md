@@ -1,13 +1,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello👋</h1>
 
 
 ###
 
 <p align="left"><h2>My name is Mário.</h2></p>
-<p align="left">I'm  from Brazil and love technology, software and web development!
+<p align="left">I'm  from Brazil and right now studying to become a front-end developer !
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript, HTML, CSS and React!<br>🎯 Goals: Front-End Dev <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript, HTML, CSS and React!<br>🎯 Goals: Front-End Dev <br>🎲 Fun fact: My father's name is also Mario, but it didn't make me Luigi i guess....</p>
 
 ###
 
