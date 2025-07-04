@@ -1,57 +1,39 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
 
-<h1 align="left">Hello👋</h1>
+# Mário Henrique Coelho de Moraes 👨💻
 
+**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Segurança da Informação e Infraestrutura**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariohenrique-ti/)
 
-<p align="left"><h2>I'm Mário!</h2></p>
-<p align="left">I'm  from Brazil and right now studying to become front-end and mobile developer!
+## 🛠 Habilidades Técnicas
 
-###
+**Sistemas Operacionais:**  
+`Windows Server` `Linux (Ubuntu, Fedora e Debian)` 
 
-<h2 align="left">About me</h2>
+**Redes e Segurança:**  
+`Redes TCP/IP` `Firewalls` `VPN` `Monitoramento de Sistemas` `Segurança Básica`
 
-###
+**Desenvolvimento:**  
+`Python` `C#` `.NET` `SQL` `HTML/CSS` `JavaScript`
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript, HTML, CSS and React!<br>🎯 Goals: Front-End Dev/Mobile Dev <br>🎲 Fun fact: My father's name is also Mario, but it didn't make me Luigi i guess....</p>
+**Ferramentas:**  
+`Active Directory` `VirtualBox` `Wireshark` `Git` `Post Man` 
 
-###
+## 🎓 Formação
 
-<h2 align="left">Front-End Knowledge and Learning </h2>
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 
-###
+## 🌟 Objetivos Profissionais
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
+Busco oportunidades para aplicar meus conhecimentos em:
+- Monitoramento e segurança de sistemas
+- Administração de redes e infraestrutura
+- Suporte técnico especializado
+- Análise de vulnerabilidades
 
-<h2 align="left">Back-End Knowledge and Learning </h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
-  <img width="12" />
-</div>
-
-###
- 
-<h2 align="left">Non-code knowledge </h2>
-<div align ="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" height="40" alt="xd logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
-</div>
+Estou em constante aprendizado e aberto a novos desafios na área de tecnologia!
 
 
 ###
