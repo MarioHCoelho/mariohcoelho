@@ -7,8 +7,33 @@
 <h2 align="left">Hi 👋! My name is Mário and I'm a System Analyst, from Brazil</h2>
 
 ###
+```bash
+#!/bin/bash
 
-<p align="left">```shell<br>#!/bin/bash<br><br># Infrastructure & Security Profile<br># Mário Henrique Coelho de Moraes<br><br>declare -A mario_henrique=(<br>    ["name"]="Mário Henrique Coelho de Moraes"<br>    ["location"]="Votorantim, São Paulo - Brazil 🇧🇷"<br>    ["role"]="Junior IT Professional | Infrastructure & Security"<br>    ["experience"]="IT Support & Network Administration"<br>    ["education"]="Systems Analysis and Development @ Athon Sorocaba"<br>    ["status"]="Fixing bugs and automating infrastructure since 2025"<br>    ["english_level"]="C2 Proficient (EFSET 72/100)"<br>)<br><br>say_hi() {<br>    echo "Thanks for dropping by! Let's build a more secure and efficient infrastructure together!"<br>}<br><br># Running profile...<br>for key in "${!mario_henrique[@]}"; do<br>    echo "$key: ${mario_henrique[$key]}"<br>done<br><br>say_hi<br><br>```</p>
+# Infrastructure & Security Profile
+# Mário Henrique Coelho de Moraes
+
+declare -A mario_henrique=(
+    ["name"]="Mário Henrique Coelho de Moraes"
+    ["location"]="Votorantim, São Paulo - Brazil 🇧🇷"
+    ["role"]="Junior IT Professional | Infrastructure & Security"
+    ["experience"]="IT Support & Network Administration"
+    ["education"]="Systems Analysis and Development @ Athon Sorocaba"
+    ["status"]="Fixing bugs and automating infrastructure since 2025"
+    ["english_level"]="C2 Proficient (EFSET 72/100)"
+)
+
+say_hi() {
+    echo "Thanks for dropping by! Let's build a more secure and efficient infrastructure together!"
+}
+
+# Running profile...
+for key in "${!mario_henrique[@]}"; do
+    echo "$key: ${mario_henrique[$key]}"
+done
+
+say_hi
+```
 
 ###
 
