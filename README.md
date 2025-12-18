@@ -1,73 +1,94 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Mário and I'm a System Analyst, from Brazil</h2>
 
-```shell
-#!/bin/bash
+###
 
-# Infrastructure & Security Profile
-# Mário Henrique Coelho de Moraes
-
-declare -A mario_henrique=(
-    ["name"]="Mário Henrique Coelho de Moraes"
-    ["location"]="Votorantim, São Paulo - Brazil 🇧🇷"
-    ["role"]="Junior IT Professional | Infrastructure & Security"
-    ["experience"]="IT Support & Network Administration"
-    ["education"]="Systems Analysis and Development @ Athon Sorocaba"
-    ["status"]="Fixing bugs and automating infrastructure since 2025"
-    ["english_level"]="C2 Proficient (EFSET 72/100)"
-)
-
-say_hi() {
-    echo "Thanks for dropping by! Let's build a more secure and efficient infrastructure together!"
-}
-
-# Running profile...
-for key in "${!mario_henrique[@]}"; do
-    echo "$key: ${mario_henrique[$key]}"
-done
-
-say_hi
-
-```
+<p align="left">```shell<br>#!/bin/bash<br><br># Infrastructure & Security Profile<br># Mário Henrique Coelho de Moraes<br><br>declare -A mario_henrique=(<br>    ["name"]="Mário Henrique Coelho de Moraes"<br>    ["location"]="Votorantim, São Paulo - Brazil 🇧🇷"<br>    ["role"]="Junior IT Professional | Infrastructure & Security"<br>    ["experience"]="IT Support & Network Administration"<br>    ["education"]="Systems Analysis and Development @ Athon Sorocaba"<br>    ["status"]="Fixing bugs and automating infrastructure since 2025"<br>    ["english_level"]="C2 Proficient (EFSET 72/100)"<br>)<br><br>say_hi() {<br>    echo "Thanks for dropping by! Let's build a more secure and efficient infrastructure together!"<br>}<br><br># Running profile...<br>for key in "${!mario_henrique[@]}"; do<br>    echo "$key: ${mario_henrique[$key]}"<br>done<br><br>say_hi<br><br>```</p>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHCoelho&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioHCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHCoelho&theme=material-palenight&area=true&hide_border=false" height="150" alt="activity-graph graph"  />
 </div>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/162647938?v=4"  />
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarioHCoelho.MarioHCoelho&"  />
+</div>
+
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
 ###
 
+<div align="left">
+  <a href="mariohenrique2905@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mariohenrique-ti/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/162647938?v=4"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/MarioHCoelho/MarioHCoelho/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
