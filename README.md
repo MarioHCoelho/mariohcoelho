@@ -1,12 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=M%C3%A1rio%20Henrique&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Junior%20IT%20Infrastructure%20Analyst%20&descSize=20&descAlign=50&descAlignY=89&textBg=false&color=gradient"  />
 </div>
 
-###
 
-<h2 align="left">Hi 👋! My name is Mário and I'm a System Analyst, from Brazil</h2>
 
-###
+
+<h2 align="left">About Me </h2>
+
+
+
 ```bash
 #!/bin/bash
 
@@ -37,6 +39,7 @@ say_hi
 
 ###
 
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHCoelho&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioHCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
@@ -50,6 +53,8 @@ say_hi
 </div>
 
 ###
+<h2>Language Stack</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -72,6 +77,8 @@ say_hi
 </div>
 
 ###
+
+<h2>Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
