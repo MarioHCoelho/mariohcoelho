@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioHCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
