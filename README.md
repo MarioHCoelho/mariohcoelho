@@ -1,16 +1,42 @@
 <h2 align="left">Hi 👋! My name is Mário and I'm a System Analyst, from Brazil</h2>
 
+```shell
+#!/bin/bash
+
+# Infrastructure & Security Profile
+# Mário Henrique Coelho de Moraes
+
+declare -A mario_henrique=(
+    ["name"]="Mário Henrique Coelho de Moraes"
+    ["location"]="Votorantim, São Paulo - Brazil 🇧🇷"
+    ["role"]="Junior IT Professional | Infrastructure & Security"
+    ["experience"]="IT Support & Network Administration"
+    ["education"]="Systems Analysis and Development @ Athon Sorocaba"
+    ["status"]="Fixing bugs and automating infrastructure since 2025"
+    ["english_level"]="C2 Proficient (EFSET 72/100)"
+)
+
+say_hi() {
+    echo "Thanks for dropping by! Let's build a more secure and efficient infrastructure together!"
+}
+
+# Running profile...
+for key in "${!mario_henrique[@]}"; do
+    echo "$key: ${mario_henrique[$key]}"
+done
+
+say_hi
+
+```
+
 ###
 
 <div align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHCoelho&theme=panda&show_icons=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioHCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioHCoelho&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioHCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/162647938?v=4"  />
-
 ###
 
 <div align="left">
@@ -42,8 +68,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/MarioHCoelho/MarioHCoelho/output/snake.svg" alt="Snake animation" />
 
 ###
